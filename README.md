@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meruyet</h1>
+<h1 align="center">Hi 👋, I'm Meruyet Zhunussova</h1>
 <h3 align="center">A passionate iOS developer from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **iOS development.**
