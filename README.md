@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **iOS development.**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/meruyert123?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/meruyert123?tab=repositories).
 
 - 📫 How to reach me **meruyert.zhunussova11@gmail.com**
 
