@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meruyet</h1>
 <h3 align="center">A passionate iOS developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **iOS development.**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/meruyert123?tab=repositories).
 
 - 📫 How to reach me **meruyert.zhunussova11@gmail.com**
